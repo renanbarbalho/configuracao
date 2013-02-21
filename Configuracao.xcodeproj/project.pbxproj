@@ -18,6 +18,7 @@
 		B14EC59216D5B57F009A18E4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B14EC59116D5B57F009A18E4 /* Default-568h@2x.png */; };
 		B14EC59516D5B57F009A18E4 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14EC59316D5B57F009A18E4 /* MainStoryboard.storyboard */; };
 		B14EC59816D5B57F009A18E4 /* rbarbalhoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B14EC59716D5B57F009A18E4 /* rbarbalhoViewController.m */; };
+		B14EC59F16D5B6D5009A18E4 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B14EC59E16D5B6D5009A18E4 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		B14EC59416D5B57F009A18E4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		B14EC59616D5B57F009A18E4 /* rbarbalhoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rbarbalhoViewController.h; sourceTree = "<group>"; };
 		B14EC59716D5B57F009A18E4 /* rbarbalhoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rbarbalhoViewController.m; sourceTree = "<group>"; };
+		B14EC59E16D5B6D5009A18E4 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B14EC58D16D5B57F009A18E4 /* Default.png */,
 				B14EC58F16D5B57F009A18E4 /* Default@2x.png */,
 				B14EC59116D5B57F009A18E4 /* Default-568h@2x.png */,
+				B14EC59E16D5B6D5009A18E4 /* Settings.bundle */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 				B14EC59016D5B57F009A18E4 /* Default@2x.png in Resources */,
 				B14EC59216D5B57F009A18E4 /* Default-568h@2x.png in Resources */,
 				B14EC59516D5B57F009A18E4 /* MainStoryboard.storyboard in Resources */,
+				B14EC59F16D5B6D5009A18E4 /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
